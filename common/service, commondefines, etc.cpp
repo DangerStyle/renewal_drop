@@ -1,0 +1,1 @@
+#define __OWNER_ONLY_VISIBLE_DROPS__
